@@ -37,6 +37,7 @@ for k in range(4):
     jim.forward(100)
     jim.right(90)
 
+
 tom = rg.SimpleTurtle('turtle')
 tom.pen = rg.Pen('blue',20)
 tom.speed = 7
