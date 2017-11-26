@@ -45,3 +45,6 @@ tom.left(90)
 for k in range(12):
     tom.left(30)
     tom.forward(100)
+
+
+window.close_on_mouse_click()
