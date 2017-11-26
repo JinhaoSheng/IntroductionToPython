@@ -120,6 +120,7 @@ Michael.left(46)
 Michael.forward(150)
 Michael.right(99)
 Michael.backward(101)
+Michael.forward(20)
 ########################################################################
 #
 # Done: 5.
